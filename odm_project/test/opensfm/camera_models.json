@@ -1,0 +1,13 @@
+{
+    "v2 canon powershot a3300 is 4608 3456 perspective 0.8116": {
+        "focal_prior": 0.8116883116883117, 
+        "width": 4608, 
+        "k1": 0.0, 
+        "k2": 0.0, 
+        "k1_prior": 0.0, 
+        "k2_prior": 0.0, 
+        "projection_type": "perspective", 
+        "focal": 0.8116883116883117, 
+        "height": 3456
+    }
+}

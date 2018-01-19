@@ -1,0 +1,12 @@
+{
+    "width": 4608, 
+    "camera": "v2 canon powershot a3300 is 4608 3456 perspective 0.8116", 
+    "projection_type": "perspective", 
+    "orientation": 8, 
+    "focal_ratio": 0.8116883116883117, 
+    "make": "Canon", 
+    "gps": {}, 
+    "model": "Canon PowerShot A3300 IS", 
+    "capture_time": 1345380682.0, 
+    "height": 3456
+}

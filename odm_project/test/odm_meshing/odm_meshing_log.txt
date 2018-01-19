@@ -1,0 +1,24 @@
+odm_meshing_log.txt
+Reading point cloud at: /var/www/html/w3d/odm_project/test/opensfm/depthmaps/merged.ply
+Writing output to: /var/www/html/w3d/odm_project/test/odm_meshing/odm_mesh.ply
+Writing log information to: /var/www/html/w3d/odm_project/test/odm_meshing/odm_meshing_log.txt
+Vertex count was manually set to: 100000
+Octree depth was manually set to: 9
+The number of samples per octree node was manually set to: 1
+Numerical solver divisions was manually set to: 9
+Successfully loaded 1614292 points with corresponding normals from file.
+Octree depth used for reconstruction is: 9
+Estimated initial vertex count: 262144
+
+Reconstruction complete:
+Vertex count: 373855
+Triangle count: 747496
+
+Decimating mesh, removing 73.2517 percent of vertices.
+Decimation complete.
+Decimated vertex count: 100042
+Decimated triangle count: 199942
+
+Saving mesh to file.
+Successfully wrote mesh to:
+/var/www/html/w3d/odm_project/test/odm_meshing/odm_mesh.ply

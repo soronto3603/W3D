@@ -1,0 +1,6 @@
+use_exif_size: no
+feature_process_size: 2048
+feature_min_frames: 4000
+processes: 8
+matching_gps_neighbors: 8
+optimize_camera_parameters: yes

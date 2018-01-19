@@ -1,0 +1,73 @@
+/home/soronto/OpenDroneMap/build/bin/odm_orthophoto_log.txt
+
+Arguments given
+-inputFile
+/var/www/html/w3d/odm_project/test/odm_texturing/odm_textured_model.obj
+-logFile
+/var/www/html/w3d/odm_project/test/odm_orthophoto/odm_orthophoto_log.txt
+-outputFile
+/var/www/html/w3d/odm_project/test/odm_orthophoto/odm_orthophoto.png
+-resolution
+20.0
+-outputCornerFile
+/var/www/html/w3d/odm_project/test/odm_orthophoto/odm_orthophoto_corners.txt
+
+Reading textured mesh from: /var/www/html/w3d/odm_project/test/odm_texturing/odm_textured_model.obj
+Log file path was set to: /var/www/html/w3d/odm_project/test/odm_orthophoto/odm_orthophoto_log.txt
+Writing output to: /var/www/html/w3d/odm_project/test/odm_orthophoto/odm_orthophoto.png
+Resolution count was set to: 20pixels/meter
+Writing corners to: /var/www/html/w3d/odm_project/test/odm_orthophoto/odm_orthophoto_corners.txt
+
+Reading mesh file...
+.. mesh file read.
+
+Number of faces in the model 174615
+Set boundary to contain entire model.
+Local boundary points:
+Point 1: -131.73 -19.166
+Point 2: -131.73 212.94
+Point 3: 77.029 212.94
+Point 4: 77.029 -19.166
+
+Ortho photo bounds x : -131.73 -> 77.029
+Ortho photo bounds y : -19.166 -> 212.94
+Ortho photo area : 48454.2m2
+Ortho photo resolution, width x height : 4176x4643
+Translating and scaling mesh...
+.. mesh translated and scaled.
+
+Rendering the ortho photo...
+Material 0 rendered.
+Material 1 rendered.
+Material 2 rendered.
+Material 3 rendered.
+Material 4 rendered.
+Material 5 rendered.
+Material 6 rendered.
+Material 7 rendered.
+Material 8 rendered.
+Material 9 rendered.
+Material 10 rendered.
+Material 11 rendered.
+Material 12 rendered.
+Material 13 rendered.
+Material 14 rendered.
+Material 15 rendered.
+Material 16 rendered.
+Material 17 rendered.
+Material 18 rendered.
+Warning: Sliver polygon found at face index 173857
+Warning: Sliver polygon found at face index 173858
+Warning: Sliver polygon found at face index 173859
+Warning: Sliver polygon found at face index 173860
+Material 19 rendered.
+Material 20 rendered.
+Material 21 rendered.
+Material 22 rendered.
+Material 23 rendered.
+Material 24 rendered.
+...ortho photo rendered
+
+Writing ortho photo to /var/www/html/w3d/odm_project/test/odm_orthophoto/odm_orthophoto.png
+Writing corner coordinates to /var/www/html/w3d/odm_project/test/odm_orthophoto/odm_orthophoto_corners.txt
+Orthophoto generation done.
